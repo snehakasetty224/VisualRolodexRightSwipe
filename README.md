@@ -1,1 +1,3 @@
 # VisualRolodexRightSwipe
+
+![GIF](visualRolodex.gif)
